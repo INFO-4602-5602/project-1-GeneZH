@@ -11,4 +11,6 @@ Bells & Whistles:
 
 Tooltips: done
 
+The tooltips is for the graph in part 3 & 4
+
 
